@@ -14,6 +14,15 @@ Usage:
 1. Directly specify values in the script and run it
 2. Run the script through the command line with optional arguments for customization
 
+![image](https://github.com/sasivatsal7122/AmazonScraper-Selenium/assets/71326149/f870edc7-a050-4617-9303-397afce096a8)
+
+Demo:
+![image](https://github.com/sasivatsal7122/AmazonScraper-Selenium/assets/71326149/720c5247-5db0-494d-8dcd-f27db96b78d9)
+![image](https://github.com/sasivatsal7122/AmazonScraper-Selenium/assets/71326149/3f3db144-b37f-44af-a7ae-16901852d7a8)
+
+Outputs:
+
+
 Dependencies:
 - Python 3.x
 - Required Python packages (specified in requirements.txt)
