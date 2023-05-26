@@ -13,13 +13,13 @@ This repository contains a Python script for scraping product information from A
 ### Usage:
 
 1.1: Run the script through the command line with optional arguments for customization
-```bash
+```python3
 python amazonScraper.py --page-limit 30 --search-term "Men Shoes" --output-filename "shoe_data" --output-fileformat "csv"
 ```
 1.2:Directly specify values in the script and run it
 
 #### For help:
-```bash
+```python3
 python amazonScraper.py -h
 ```
 ![image](https://github.com/sasivatsal7122/AmazonScraper-Selenium/assets/71326149/292ed05f-3773-4251-81f9-16794f51a36b)
