@@ -142,15 +142,3 @@ if __name__ == '__main__':
     print("Saving data")
     save_data(data)
     print("Data saved")
-    
-    
-
-    
-
-
-
-
-
-
-
-
